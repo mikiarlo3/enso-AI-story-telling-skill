@@ -1,0 +1,15 @@
+{
+  "name": "enso-skills",
+  "description": "Skills from enso, the agentic growth lab — starting with the storytelling skill.",
+  "owner": {
+    "name": "Mickey",
+    "email": "mickey@enso.bot"
+  },
+  "plugins": [
+    {
+      "name": "storytelling",
+      "source": "./",
+      "description": "Write like 38 master storytellers — hooks, story structure, stakes, and endings from Sinek, Ogilvy, Pixar, Hemingway, Duarte, and more, applied to blog posts, LinkedIn posts, ads, sales pages, speeches, and brand stories."
+    }
+  ]
+}
