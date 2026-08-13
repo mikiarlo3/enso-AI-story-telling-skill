@@ -27,6 +27,11 @@ Hemingway ended each writing day mid-flow, while he still knew what came next �
 **When to use:** Section endings, newsletter installments, chapter breaks in long content, and the ending of the whole piece.
 **Apply it in prose:** End each section one beat earlier than feels complete — after the strong line, before the summary of the strong line. Cut wrap-up sentences that restate what the section just showed. If a section ends with "In short, ..." delete that sentence and see if the ending improved. It almost always did.
 
+## Concrete particulars over abstract words
+Hemingway's narrators distrust big abstract words — glory, sacrifice, excellence — and trust names, numbers, dates, and objects. It works because abstractions have been worn smooth by overuse and slide off the reader, while a concrete particular (a street name, an amount, a time of day) forces the mind to build a picture, and pictures are what get believed.
+**When to use:** Everywhere, but critically in claims: marketing copy, values statements, about pages, testimonials.
+**Apply it in prose:** Audit for abstractions — "world-class," "passionate," "committed to excellence" — and replace each with the particular that earned it: "support answers in under four minutes; the record is forty seconds." If no particular exists to back the abstraction, the abstraction was a lie; cut it.
+
 ## Before / after
 **Flat:** Shutting down our first product was an incredibly emotional and difficult decision that taught us many painful but valuable lessons about listening to the market.
 **With Hemingway's technique:** We shut the product down on a Friday. It had taken two years to build and eleven minutes to turn off. Forty-two customers emailed. We answered every one.
@@ -40,3 +45,4 @@ Failure stories and post-mortems, sensitive announcements, personal essays, exec
 - [ ] Do quoted conversations keep their subtext instead of being explained?
 - [ ] Is the truest sentence you know placed at or near the top?
 - [ ] Does each section end one beat before exhaustion, with no restating wrap-up?
+- [ ] Is every abstract claim replaced or backed by a concrete particular?

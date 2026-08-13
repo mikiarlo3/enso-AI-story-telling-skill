@@ -27,6 +27,11 @@ Rowling shows readers the critical clue but buries it inside a list, a comic sce
 **When to use:** Any piece with a reveal — a surprising data finding, a plot twist in a case study, a contrarian conclusion.
 **Apply it in prose:** Mention the key fact early, casually, with no emphasis — one item in a list of five, a subordinate clause in a busy paragraph. At the reveal, point back to it: "It was in the onboarding survey the whole time — question four." Test the balance: a colleague reading the piece shouldn't spot the clue as A Clue, but should nod when it's revealed.
 
+## Anchor the extraordinary in the ordinary
+Rowling's magical world runs on mundane machinery — homework, house points, awful relatives, train platforms — and the ordinary details are what make the magic feel real. Grounding works because readers can only believe the extraordinary claim by standing on something they already know; wonder without the mundane reads as marketing.
+**When to use:** Big claims: launch announcements, visionary thought-leadership, "the future of X" content, testimonials with dramatic numbers.
+**Apply it in prose:** Pair every extraordinary statement with a mundane, verifiable texture. Not "AI transformed their operations" but "the Monday reconciliation meeting — the one with the donuts and the dread — now takes eleven minutes." The smaller and more ordinary the anchoring detail, the more believable the big claim beside it.
+
 ## Before / after
 **Flat:** Our analysis found that customer retention was mainly driven by whether users invited a teammate in their first week, which surprised us because we had focused on feature adoption.
 **With Rowling's technique:** Two cohorts. Same product, same price, same onboarding emails. One retained at double the rate — and for three months, nobody could say why. We audited features used, plans chosen, even signup day of the week. The answer had been sitting in question four of the onboarding survey since January. It wasn't about features at all.
@@ -40,3 +45,4 @@ Newsletter and content series, serialized case studies, data-story posts with a 
 - [ ] Does each section or installment end on a hook rather than a summary?
 - [ ] Are recurring concepts given short, meaning-loaded names?
 - [ ] Is the key clue visible early but camouflaged, so the reveal feels fair?
+- [ ] Is every extraordinary claim anchored by a mundane, concrete detail?

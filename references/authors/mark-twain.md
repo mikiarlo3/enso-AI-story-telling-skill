@@ -27,6 +27,11 @@ Twain's narrators periodically turn from the story to the reader with a dry obse
 **When to use:** Long pieces that need moments of intimacy; any narrative where the narrator's personality is part of the product.
 **Apply it in prose:** Once or twice per piece — no more — break the narration with a parenthetical or a short standalone line addressed at the reader's likely thought: "(You already know where this is going. We did not.)" Use it to acknowledge what the reader is thinking at exactly the moment they think it.
 
+## The calculated pause before the snapper
+In his essay "How to Tell a Story," Twain called the pause the most important element of the humorous story: the teller wanders gravely along, then pauses, then drops the "snapper." Timing works because the beat of silence makes the reader lean in — a punchline that arrives mid-flow gets absorbed; one that arrives after a beat gets felt.
+**When to use:** Any piece with a punchline, reveal, or kicker — social posts, speech scripts, essay endings.
+**Apply it in prose:** Build pauses typographically. Put the snapper in its own short paragraph, after a longer one. Use a sentence of apparent wind-down before it. In speeches, literally write "[pause]" before the line that matters. Never bury a kicker at the end of a long paragraph — white space is your comic timing.
+
 ## Before / after
 **Flat:** Our team learned an important lesson about the dangers of overcomplicating product development processes and not listening to customer feedback early enough.
 **With Twain's technique:** We spent eight months building a feature no customer had asked for, guided by a process document with eleven approval stages. (The document itself had gone through six.) A customer finally saw the finished feature and asked, politely, what it was for. We did not have a good answer, so we gave a long one.
@@ -40,3 +45,4 @@ Newsletters with a personality, founder and personal-brand posts, industry comme
 - [ ] Has every vague, almost-right word been replaced with the exact one?
 - [ ] Are absurdities reported deadpan, with zero self-labeling of jokes?
 - [ ] Is there at most one or two wry asides, placed where the reader's thought already is?
+- [ ] Does each punchline or kicker sit in its own short paragraph, after a beat?

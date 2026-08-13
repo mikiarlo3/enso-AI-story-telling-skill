@@ -27,6 +27,11 @@ Fables survive because they're short enough to retell — a fable you can't repe
 **When to use:** Anything you want shared, quoted, or retold: social posts, taglines, teaching anecdotes.
 **Apply it in prose:** After drafting, cut the piece by a third and check it still works. Test: could a reader retell this story accurately from one reading? If not, remove characters, numbers, and qualifiers until they could. Aim for anecdotes a colleague could repeat in under thirty seconds.
 
+## Poetic justice — the flaw supplies the punishment
+In Aesop, the outcome grows directly out of the trait: the boy who cries wolf is undone by disbelief he himself manufactured; the greedy dog loses his bone by grabbing at its reflection. It works because a consequence caused by the character's own flaw feels like law rather than luck — the reader can't dismiss it as bad fortune.
+**When to use:** Cautionary tales in business writing: failure analyses, "why startups die" posts, risk content.
+**Apply it in prose:** Make the mechanism of failure the same as the behavior you're warning against. Don't write "they cut QA and then, separately, a bug hurt them" — trace the straight line: the exact corner cut is the exact corner that collapsed. If your example's downfall came from unrelated bad luck, find a different example.
+
 ## Before / after
 **Flat:** It's important not to dismiss opportunities just because you failed to get them. Many people rationalize their failures instead of learning from them, which prevents growth.
 **With Aesop's technique:** A startup I advised lost a huge enterprise deal after six months of pursuit. In the retro, the CEO said enterprise customers were "slow, bureaucratic, and honestly not our market." The next quarter, a competitor closed that exact account. Some grapes only turn sour after you fail to reach them.
@@ -40,3 +45,4 @@ LinkedIn and short social posts, newsletter openers, speech anecdotes, teaching 
 - [ ] Does the piece teach exactly one moral, with all others cut?
 - [ ] Does the lesson land in the final lines, not the opening?
 - [ ] Could a reader retell this accurately after one read?
+- [ ] Does the bad outcome grow directly from the flaw being warned against?

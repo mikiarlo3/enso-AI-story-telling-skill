@@ -27,6 +27,11 @@ Homer's Catalog of Ships lists dozens of contingents, but each entry gets its ow
 **When to use:** Feature lists, team introductions, roundups, "lessons learned" listicles.
 **Apply it in prose:** Never list bare items. Give every bullet one concrete, differentiating detail: not "improved onboarding" but "onboarding rebuilt after we watched a customer give up on step 3, twice." If you can't find a distinct detail for an item, merge it with another or delete it.
 
+## Ring composition — the digression that returns
+Homer nests stories inside stories — the scar of Odysseus triggers a long flashback to a boyhood boar hunt — but every digression closes its loop and returns precisely to the frame. It works because a digression that returns feels like depth, while one that doesn't feels like losing the thread; the return is what retroactively justifies the detour.
+**When to use:** Long-form pieces that need backstory, definitions, or side-cases without derailing the main narrative.
+**Apply it in prose:** When you digress, mark the departure point with a concrete image ("the whiteboard still said 'ship Friday'"), tell the side-story completely, then land back on that exact image before continuing. Never open a second digression inside the first.
+
 ## Before / after
 **Flat:** In this post I'll cover our company's journey over five years, including the challenges we faced and the lessons we learned along the way.
 **With Homer's technique:** The acquisition offer arrived on the same day our biggest customer churned. To explain how both happened in one morning, I have to rewind five years — to a two-person team with one goal we never changed: make invoicing invisible. Everything that follows, cyclops included, was measured against that.
@@ -40,3 +45,4 @@ Long-form case studies, company origin stories, newsletter serials, annual revie
 - [ ] Do key players carry a repeated, concrete tag used verbatim?
 - [ ] Is there one fixed goal every section measures itself against?
 - [ ] Does every list item carry its own specific, differentiating detail?
+- [ ] Does every digression close its loop and return to the exact point it left?

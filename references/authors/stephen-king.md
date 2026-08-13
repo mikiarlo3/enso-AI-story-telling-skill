@@ -27,6 +27,11 @@ King's formula, taped above his desk since a rejection-slip note early in his ca
 **When to use:** Every revision pass on every piece, from tweets to whitepapers.
 **Apply it in prose:** Check the word count after drafting; set a target of 90% or less. Cut in this order: throat-clearing openings, qualifiers ("very," "quite," "I think"), repeated points, and explanations of things you already showed. If the piece was 1,000 words, ship at 900 or fewer — and notice that nothing you cut is missed.
 
+## Hunt the adverbs
+King's toolbox rule from On Writing: the adverb is not your friend — "the road to hell is paved with adverbs." Adverbs work against you because each one confesses that the verb it props up was too weak; a strong verb carries the manner inside itself and reads twice as fast.
+**When to use:** Line editing on every piece; especially marketing copy, where "-ly" words pile up ("seamlessly," "effortlessly," "significantly").
+**Apply it in prose:** Search the draft for "ly " and judge each hit. "Walked quickly" becomes "strode"; "grew significantly" becomes "tripled"; "seamlessly integrates" becomes "connects in one click." Keep an adverb only when no verb exists that contains it. Apply the same suspicion to dialogue tags — "said" needs no decoration.
+
 ## Before / after
 **Flat:** Cybersecurity threats are increasing rapidly and could have very serious consequences for businesses of all sizes, which is why investing in protection is extremely important in today's landscape.
 **With King's technique:** The email looked like it came from the CFO. It didn't. By the time anyone checked, the wire had cleared — on a Tuesday, at a 40-person company that believed it was too small to target. Nobody there knows yet. That part comes later.
@@ -40,3 +45,4 @@ Scenario-driven marketing, risk and security content, case studies, suspenseful 
 - [ ] Have the passages you're proudest of been tested for whether they serve the reader?
 - [ ] Are the stakes implied through evidence, leaving the reader to imagine the worst?
 - [ ] Is the final draft at least 10% shorter than the first?
+- [ ] Has every adverb been tested against a stronger verb?
