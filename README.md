@@ -13,7 +13,28 @@ Teach Claude to write like 38 master storytellers. One skill, six schools:
 
 Once installed, Claude applies these techniques automatically whenever you ask it to write blog posts, LinkedIn posts, ads, sales pages, emails, speeches, brand stories, case studies, or fiction — and whenever a draft feels flat.
 
-## Install in 60 seconds
+## Install by pasting a link
+
+### Claude Code — two commands, fully automatic
+
+Paste into any Claude Code session:
+
+```
+/plugin marketplace add mikiarlo3/enso-AI-story-telling-skill
+/plugin install storytelling@enso-skills
+```
+
+Done. The skill is installed for your user account and updates when you run `/plugin update storytelling`.
+
+### Claude (claude.ai chat) — paste this prompt
+
+claude.ai can't install from a URL directly, but Claude can do the work for you. Paste this into a chat (needs code execution / file analysis enabled):
+
+> Download https://github.com/mikiarlo3/enso-AI-story-telling-skill/archive/refs/heads/main.zip , extract it, and package the folder containing SKILL.md and references/ into a single `storytelling.skill` zip file (the folder must sit at the archive root, named `storytelling`). Send me the file so I can click "Save skill".
+
+When Claude returns the file, click **Save skill** on the card — installed.
+
+## Install manually
 
 ### Claude (claude.ai — chat)
 

@@ -1,0 +1,11 @@
+{
+  "name": "storytelling",
+  "displayName": "Storytelling",
+  "version": "1.0.0",
+  "description": "Write like 38 master storytellers — hooks, story structure, stakes, and endings applied to any prose.",
+  "author": {
+    "name": "Mickey",
+    "email": "mickey@enso.bot"
+  },
+  "skills": ["./"]
+}
