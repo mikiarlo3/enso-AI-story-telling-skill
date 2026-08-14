@@ -1,13 +1,20 @@
 ---
 name: storytelling
-description: Applies techniques from 38 master storytellers — orators (Obama, Jobs, Sinek), legendary copywriters (Ogilvy, Halbert, Schwartz), marketers (Godin, Miller, Hormozi), filmmakers (Spielberg, Disney, Pixar), and authors (Hemingway, King, Twain) — to any prose writing. Use whenever writing blog posts, LinkedIn posts, ads, sales pages, emails, newsletters, speeches, brand or founder stories, case studies, or fiction, and whenever a draft feels flat, hooks weakly, or buries its point — even if the user never says "story."
+description: Applies techniques from 38 master storytellers — orators (Obama, Jobs, Sinek), legendary copywriters (Ogilvy, Halbert, Schwartz), marketers (Godin, Miller, Hormozi), filmmakers (Spielberg, Disney, Pixar), and authors (Hemingway, King, Twain) — to any prose writing, and offers a guided mode that interviews the user to find their unique angle. Use whenever writing blog posts, LinkedIn posts, ads, sales pages, emails, newsletters, speeches, brand or founder stories, case studies, or fiction; whenever a draft feels flat, hooks weakly, or buries its point — even if the user never says "story"; and whenever the user wants help figuring out WHAT to write — "help me tell my story," "I don't know my angle," "what should I post about," or they invoke the skill with no draft in hand.
 ---
 
 # Storytelling
 
 Every technique in this skill serves one goal: **make the reader care, keep them curious, land the change.** Content fails not because the ideas are bad but because the writing explains when it should dramatize, starts before the interesting part, and tells readers what to think instead of letting them feel it.
 
-Apply the core workflow below to any piece of prose. Load reference files (one per storyteller, organized by category) only when you need depth on a specific problem — the routing table tells you which.
+The skill runs in two modes:
+
+- **Direct mode** — the user asked you to write or fix a specific piece. Apply the core workflow below and load reference files per the routing table.
+- **Guided mode** — the user wants help finding what to write or how to tell it. Load `references/guided-mode.md` and follow it: they pick a storytelling type from a chat menu, you interview them briefly to surface material only they have, pitch three candidate angles, then iterate on drafts through a numbered feedback loop until it ships.
+
+**Enter guided mode when** the user invokes the skill without a concrete writing task, asks to be guided ("walk me through it," "help me find my story/angle"), has a topic but no idea how to approach it, or says some version of "I don't know what to write." **Stay in direct mode when** they hand you a draft or a well-specified request — but offer guided mode in one line if their request has no angle in it ("Want me to just write it, or interview you first to find your angle?").
+
+Apply the core workflow below to any piece of prose, in either mode. Load reference files (one per storyteller, organized by category) only when you need depth on a specific problem — the routing table tells you which.
 
 ## Core workflow
 
@@ -62,6 +69,7 @@ Load 1–3 reference files when a draft has a specific problem or the format dem
 
 | Task or symptom | Load from `references/` |
 |---|---|
+| User doesn't know what to write, or wants a guided experience | `guided-mode.md` |
 | Weak hook, too much wind-up | `orators/simon-sinek.md`, `screen-stage/andrew-stanton.md` |
 | Reader has no reason to care; piece over-explains | `screen-stage/andrew-stanton.md`, `authors/ernest-hemingway.md` |
 | Can't find the story; stakes flat; ending limp | `frameworks/matthew-dicks.md` |
